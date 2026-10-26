@@ -2,7 +2,7 @@
 
 The workstation bootstrap, installer, terminal interface, prerequisite checks, and credential recovery engine.
 
-The current installer implementation is in [opensoft/workBenches](https://github.com/opensoft/workBenches). This triad establishes its destination; history-preserving extraction and path integration are the next migration step.
+The current installer implementation is in [opensoft/openBenches](https://github.com/opensoft/openBenches). This triad establishes its destination; history-preserving extraction and path integration are the next migration step.
 
 The **code leg** of the `openworkbenchescli` project: the implementation and its
 tests. The requirements it implements live in
